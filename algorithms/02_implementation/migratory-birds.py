@@ -1,6 +1,5 @@
 # https://www.hackerrank.com/challenges/migratory-birds
 
-import sys
 
 n = int(input().strip())
 types = list(map(int, input().strip().split(' ')))
