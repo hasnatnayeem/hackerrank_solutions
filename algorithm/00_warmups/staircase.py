@@ -1,6 +1,5 @@
 # https://www.hackerrank.com/challenges/staircase
 
-import sys
 
 n = int(input().strip())
 space = i = 1

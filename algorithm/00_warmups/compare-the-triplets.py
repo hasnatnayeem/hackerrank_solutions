@@ -1,6 +1,5 @@
 # https://www.hackerrank.com/challenges/compare-the-triplets
 
-import sys
 
 a0,a1,a2 = input().strip().split(' ')
 a0,a1,a2 = [int(a0),int(a1),int(a2)]

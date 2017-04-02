@@ -1,6 +1,5 @@
 # https://www.hackerrank.com/challenges/mini-max-sum
 
-import sys
 
 ans = []
 nums = list(map(int, input().strip().split(' ')))

@@ -1,6 +1,5 @@
 # https://www.hackerrank.com/challenges/diagonal-difference
 
-import sys
 
 n = int(input().strip())
 a = []

@@ -1,6 +1,5 @@
 # https://www.hackerrank.com/challenges/time-conversion
 
-import sys
 
 time = input().strip()
 h = int(time[0:2])
